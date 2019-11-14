@@ -1,0 +1,16 @@
+.btn-yours {
+  background-color: rgba(29, 189, 83);
+  display: inline-block;
+  padding: 17px 40px;
+  color: white;
+  border-radius: 28px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-yours:hover {
+  background-color: rgba(30, 215, 96);
+}
